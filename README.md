@@ -59,9 +59,6 @@ FUTURE SCOPE
 - BERT Models
 - Multi-class Sentiment Analysis
 
-=====================================================
-GITHUB README
-=====================================================
 
 PROJECT OVERVIEW
 This project performs Sentiment Analysis on Amazon Alexa customer reviews using NLP and Machine Learning techniques.
